@@ -1,1 +1,1 @@
-# DinoGame
+# DinoGame Prototype by Priyanshu
