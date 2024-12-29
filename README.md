@@ -7,7 +7,4 @@ Clean UI: Minimalistic design for maximum focus on the gameplay.
 Dynamic Obstacles: Randomized challenges to keep you on your toes.
 Mobile-Friendly: Play on your phone, tablet, or desktop.
 Easy to Extend: Add new features, obstacles, or themes effortlessly.
-🚀 Demo
-Try it out live: Play the Dino Game
-(Replace with your GitHub Pages link or deployment URL)
-That's it! Start dodging obstacles and setting high scores.
+
